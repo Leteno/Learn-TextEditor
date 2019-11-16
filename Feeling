@@ -1,0 +1,29 @@
+
+> No harm, just wanna write down my thought, for look back
+in the future
+
+The author is so nice to describe everything in details
+I am fully moved by his generousness and kindness.
+
+Looking back for what influence me most.
+
+I guest it is the code structure.
+
+The author use structure like this, to organize all the code in a file
+```
+/*** data ***/
+/*** main ***/
+```
+
+It is so hard to read a file with a lot of code(for me).
+And I used to seperate it into serveral pieces,
+Now I get another solution, fragment it.
+
+
+BTW, the comment is important, too. I used to believe that good variable name
+will keep the comments away. However, you need to read the code though.
+
+With comment, you can just ignore(summerize) the code, and have a brief idea of these code.
+However comment should be short and strick into point.
+
+Especially in the option. Who can know what the difference between `ICANON` and `IEXTEN`?
